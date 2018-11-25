@@ -1,6 +1,7 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   '/web-pwa/',
+  '/web-pwa/index.html',
   '/web-pwa/css/main.css',
   '/web-pwa/js/main.js'
 ];
